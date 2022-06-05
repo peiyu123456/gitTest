@@ -12,5 +12,6 @@ public class tit {
         System.out.println("hello new world3!");
         System.out.println("hello new world4!");
         System.out.println("hello new world5!");
+        System.out.println("hot-fix test!");
     }
 }
